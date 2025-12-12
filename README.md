@@ -1,4 +1,4 @@
-# Final Praktikum Kelompok 10
+# Final Praktikum Kelompok 13
 
 Hasil Praktikum 1 dan 2 Mata Kuliah Teori Graf oleh Kelompok 13
 
