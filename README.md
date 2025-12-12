@@ -1,8 +1,8 @@
 # Final Praktikum Kelompok 10
 
-Hasil Praktikum 1 dan 2 Mata Kuliah Teori Graf oleh Kelompok 10
+Hasil Praktikum 1 dan 2 Mata Kuliah Teori Graf oleh Kelompok 13
 
-### Anggota Kelompok 10
+### Anggota Kelompok 13
 
 |                       Nama                               		                	|    NRP     |
 | :---------------------------------------------------------------------------: | :--------: |
