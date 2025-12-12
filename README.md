@@ -6,9 +6,8 @@ Hasil Praktikum 1 dan 2 Mata Kuliah Teori Graf oleh Kelompok 10
 
 |                       Nama                               		                	|    NRP     |
 | :---------------------------------------------------------------------------: | :--------: |
-|   [Farrel Hasudungan Immanuel Limbong](https://github.com/farelhasudungan)  	| 5025241016 |
-|   [Jahhaza Assiqooyah Nurul Hidayah](https://github.com/jahhaza)             	| 5025241019 |
-|   [Muhammad Hilman Azhar](https://github.com/hilmanazhar) 			              | 5025241264 |
+|   [Kayana Danendra Kawiswara](https://github.com/mastopjago)  	| 5025231286 |
+|   [Ahmad Izzul Hamda](https://github.com/jahhaza)             	| 5025231243 |
 
 ## Daftar Isi
 - [Praktikum 1](#praktikum-1)
